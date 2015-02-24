@@ -10,9 +10,10 @@ For details on SyntaxHighlighter, please refer to: <a href='http://alexgorbatche
 </p>
 <h2>Copyright Disclaimer</h2>
 <p>
-PeopleCode is a propriety language owned by Oracle Corporation as part of the PeopleTools Enterprise suite.
-<br/>This JavaScript brush file simply provides syntax highlighting for keyword functions defined in the PeopleCode language, which can be referenced via publicly available PeopleBooks.
-<br/>Download or use of this syntax highlighter brush does not constitute a license to use PeopleSoft or any other Oracle product.
+PeopleCode is a propriety language owned by Oracle Corporation as part of the PeopleTools Enterprise suite.  This JavaScript brush file simply provides syntax highlighting for keyword functions defined in the PeopleCode language, which can be referenced via publicly available PeopleBooks.
+</p>
+<p>
+The download or use of this syntax highlighter brush does not constitute a license to use PeopleSoft or any other Oracle product.
 </p>
 <h2>Use with Confluence Code Macro</h2>
 <p>
