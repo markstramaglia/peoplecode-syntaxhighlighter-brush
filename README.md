@@ -8,6 +8,12 @@ For details on SyntaxHighlighter, please refer to: <a href='http://alexgorbatche
 <br/>GitHub Repo:  <a href='https://github.com/syntaxhighlighter/syntaxhighlighter'>https://github.com/syntaxhighlighter/syntaxhighlighter</a>
 <br/>For details on PeopleCode, please refer to Oracle's online documentation: <a href='http://docs.oracle.com/cd/E58500_01/pt854pbh1/eng/index.html'>PeopleTools 8.54 Online Help</a>
 </p>
+<h2>Copyright Disclaimer</h2>
+<p>
+PeopleCode is a propriety language owned by Oracle Corporation as part of the PeopleTools Enterprise suite.
+<br/>This JavaScript brush file simply provides syntax highlighting for keyword functions defined in the PeopleCode language, which can be referenced via publicly available PeopleBooks.
+<br/>Download or use of this syntax highlighter brush does not constitute a license to use PeopleSoft or any other Oracle product.
+</p>
 <h2>Use with Confluence Code Macro</h2>
 <p>
 Atlassian Confluence has a Code Macro which can be used to display formatted code blocks on Confluence pages.  This macro uses the open-source "SyntaxHighlighter" Javascript library by Alex Gorbatchev, and as of version 2.1.0 of the Code Macro Plugin, supports the upload of custom language definitions, or "brushes".
