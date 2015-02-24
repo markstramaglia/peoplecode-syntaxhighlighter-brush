@@ -14,6 +14,11 @@ Atlassian Confluence has a Code Macro which can be used to display formatted cod
 <p>
 If you are running version 2.1.0 or better of the Code Macro in Confluence, you can upload this PeopleCode brush file from the Confluence Add-on configuration page for the Code Macro plugin.
 </p>
+<p><b>To upload a new language definition to Confluence</b>:
+<br/>1. Access the Confluence administration console and select "Configure Code Macro" from the menu on the left.
+<br/>2. At the bottom of the page, click the "Upload new Language" link and then select the language definition file to upload in the dialog that appears.
+<br/>3. Your new language definition will be available for use immediately from within the code block macro.
+</p>
 </p>
 <h2>Versions</h2>
 <h4>Version 1.0</h4>
