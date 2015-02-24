@@ -6,7 +6,7 @@ This is a custom brush for the PeopleCode language (part of the Oracle PeopleSof
 <p>
 For details on SyntaxHighlighter, please refer to: <a href='http://alexgorbatchev.com/SyntaxHighlighter/'>http://alexgorbatchev.com/SyntaxHighlighter/</a>
 <br/>GitHub Repo:  <a href='https://github.com/syntaxhighlighter/syntaxhighlighter'>https://github.com/syntaxhighlighter/syntaxhighlighter</a>
-<br/>For details on PeopleCode, please refer to Oracle's online documentation: <a href='http://docs.oracle.com/cd/E58500_01/pt854pbh1/eng/index.html'>PeopleBooks - PeopleTools 8.54 Online Help</a>
+<br/>For details on PeopleCode, please refer to Oracle's online documentation: <a href='http://docs.oracle.com/cd/E58500_01/pt854pbh1/eng/index.html'>PeopleTools 8.54 Online Help</a>
 </p>
 <h2>Use with Confluence Code Macro</h2>
 <p>
