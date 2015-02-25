@@ -28,9 +28,11 @@ If you are running version 2.1.0 or better of the Code Macro in Confluence, you 
 <br/>3. Your new language definition will be available for use immediately from within the code block macro.
 </p>
 </p>
-<h2>Versions</h2>
-<h4>Version 1.0</h4>
+<h2>Change History</h2>
+<h4>Version 1.0.X</h4>
 <p>
-Version 1.0 updated 24-FEB-2015.
-Initial version of brush, includes functions for PeopleTools 8.54.
+<ul>
+<li>1.0.0 (24-FEB-15): Initial version of brush, includes functions for PeopleTools 8.54.</li>
+<li>1.0.1 (25-FEB-25): Formatting updates to make more readable, added "instance" keyword.</li>
+</ul>
 </p>
