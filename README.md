@@ -32,7 +32,7 @@ If you are running version 2.1.0 or better of the Code Macro in Confluence, you 
 <h4>Version 1.0.X</h4>
 <p>
 <ul>
-<li>1.0.0 (24-FEB-15): Initial version of brush, includes functions for PeopleTools 8.54.</li>
-<li>1.0.1 (25-FEB-15): Formatting updates to make more readable, added "instance" keyword.</li>
+<li>1.0.0 (24-FEB-2015): Initial version of brush, includes functions for PeopleTools 8.54.</li>
+<li>1.0.1 (25-FEB-2015): Formatting updates to make more readable, added "instance" keyword.</li>
 </ul>
 </p>
