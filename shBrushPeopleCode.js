@@ -4,7 +4,7 @@
  * GitHub: https://github.com/markstramaglia/peoplecode-syntaxhighlighter-brush
  *
  * Brush @version
- * 1.0.1 (February 25 2015)
+ * 1.0.2 (February 27 2015)
  *
  * Credit to Alex Gorbatchev for SyntaxHighlighter
  * http://alexgorbatchev.com/SyntaxHighlighter
@@ -15,7 +15,7 @@
 ;(function()
 {
   // CommonJS
-  typeof(require) != 'undefined' ? SyntaxHighlighter = require('shCore').SyntaxHighlighter : null;
+  SyntaxHighlighter = SyntaxHighlighter || (typeof(require) != 'undefined' ? SyntaxHighlighter = require('shCore').SyntaxHighlighter : null);
 
   function Brush()
   {
