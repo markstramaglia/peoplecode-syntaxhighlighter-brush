@@ -34,5 +34,6 @@ If you are running version 2.1.0 or better of the Code Macro in Confluence, you 
 <ul>
 <li>1.0.0 (24-FEB-2015): Initial version of brush, includes functions for PeopleTools 8.54.</li>
 <li>1.0.1 (25-FEB-2015): Formatting updates to make more readable, added "instance" keyword.</li>
+<li>1.0.2 (27-FEB-2015): Fixed compatibility with Confluence 5.6+</li>
 </ul>
 </p>
